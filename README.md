@@ -1,0 +1,3 @@
+# Hi I am Otus9051
+## A student (Middle School), also, I happen to be  a programmer, kinda. I know C and Bash along with HTML, CSS, Scratch(ikr), QBASIC(ok ya), and some other stuff...
+### I do have a discord: ```SteveWhoLikesThings#3039```
