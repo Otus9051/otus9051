@@ -1,3 +1,5 @@
+# Hey There, I am Otus9051 a.k.a. Steve
+## A good guy (according to people), A middle schooler and a seasoned dev
 - I use Linux(instantOS), Windows10 and macOS Catalina (Tryna get Big Sur up)
 
 - 🌱 I’m currently learning **C**
