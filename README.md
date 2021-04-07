@@ -1,7 +1,6 @@
 # Hey There, I am Otus9051 a.k.a. Steve
 ## A good guy (according to people), A middle schooler and a seasoned dev
-- I use Linux(Arch Linux), Windows10 and chromeOS(via brunch)
-
+- I use Linux (Fedora & Ubuntu) and Windows 10
 - 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **WordPress, C and Hackintoshing**
