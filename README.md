@@ -1,6 +1,6 @@
 # Hey There, I am Otus9051 a.k.a. Steve
 ## A good guy (according to people), A middle schooler and a seasoned dev
-- I use Linux (Bedrock, I have Arch, Fedora, Alpine, Gentoo and Debian over Ubuntu. Hmm.) and Windows 10
+- I use Linux (Arch and Fedora) and Windows 10
 - 🌱 I’m currently learning **C**
 - 💬 Ask me about **WordPress, C and Hackintoshing**
 
