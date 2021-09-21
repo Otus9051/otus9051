@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I am Otus9051</h1>
 <h3 align="center">A seasoned dev and a full-time student</h3>
 
-<h4 align="center">🌱 I’m currently learning C++ & a hint of Lua</h4>
+<h4 align="center">🌱 I’m currently learning C++ & a hint of Python</h4>
 <h4 align="center">💬 Ask me about C, Bash & Wordpress</h4>
 <h4 align="center">I use Garuda Linux, Windows 11 and ChromeOS</h4>
 
