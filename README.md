@@ -3,7 +3,7 @@
 
 <h4 align="center">🌱 I’m currently learning C++ & a hint of Python</h4>
 <h4 align="center">💬 Ask me about C, Bash & Wordpress</h4>
-<h4 align="center">I use Garuda Linux, Windows 11 and ChromeOS</h4>
+<h4 align="center">I use RebornOS, NixOS & Windows 7</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
