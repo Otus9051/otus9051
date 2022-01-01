@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I am Otus9051</h1>
-<h3 align="center">A full-time dev and a part-time middle schooler :P</h3>
+<h3 align="center">A full-time procrastinator and a part-time middle schooler :P</h3>
 
 <h4 align="center">🌱 I’m currently learning C++</h4>
 <h4 align="center">💬 Ask me about C, Bash & Linux</h4>
-<h4 align="center">I use OpenSUSE & Windows 11</h4>
+<h4 align="center">I use macOS Monterey, EndeavourOS, Windows 10</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
