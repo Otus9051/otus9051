@@ -12,3 +12,8 @@
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=otus9051&include_all_commits=true">
 </p>
+
+<h6 align="center">see this cool snek btw</h6>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Otus9051/otus9051/snake/snek.svg">
+</p>
