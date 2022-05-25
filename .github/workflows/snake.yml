@@ -21,9 +21,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/darkmaster-snake-light.svg?palette=github-light
-            dist/darkmaster-snake-dark.svg?palette=github-dark
-      - name: push darkmaster-snake.svg to the snake branch
+            dist/snek.svg?palette=github-light
+            dist/snek.svg?palette=github-dark
+      - name: push snek.svg to the snake branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: snake
