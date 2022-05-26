@@ -19,6 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yhpjd6u9wfbd0qkhsen1sc5sd&cover_image=true&theme=default">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yhpjd6u9wfbd0qkhsen1sc5sd&unique=true">
 </p>
-<h6 align="center">p.s. it changes when you reload the page</h6>
+
