@@ -18,8 +18,3 @@
   see this cool snek btw
   <img src="https://raw.githubusercontent.com/Otus9051/otus9051/snake/snek.svg">
 </p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yhpjd6u9wfbd0qkhsen1sc5sd&unique=true">
-</p>
-
