@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I am Otus9051</h1>
 <h3 align="center">A full-time procrastinator and a part-time middle schooler :P</h3>
 
-<h4 align="center">Currently working on LinuxForExynos
-<h4 align="center">🌱 I’m currently learning Java & Vala</h4>
+<h4 align="center">Currently working on <a href="https://github.com/otus9051/boo">Boo
+<h4 align="center">🌱 I’m currently learning Java & Rust</h4>
 <h4 align="center">💬 Ask me about C, Bash & Linux</h4>
 <h4 align="center">I use EndeavourOS & Windows 11</h4>
 
