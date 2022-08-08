@@ -4,7 +4,7 @@
 <h4 align="center">Currently working on <a href="https://github.com/otus9051/boo">Boo
 <h4 align="center">🌱 I’m currently learning Java & Rust</h4>
 <h4 align="center">💬 Ask me about C, Bash & Linux</h4>
-<h4 align="center">I use EndeavourOS & Windows 11</h4>
+<h4 align="center">I use Windows 11 & Arch Linux</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
