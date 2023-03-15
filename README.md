@@ -1,10 +1,10 @@
 <h1 align="center">Hey there, I am Otus9051</h1>
 <h3 align="center">A full-time procrastinator and a part-time middle schooler :P</h3>
 
-<h4 align="center">Currently working on <a href="https://github.com/otus9051/boo">Boo
+<h4 align="center">Currently working on postmarketOS for on7xelte and a7y18lte</h4>
 <h4 align="center">🌱 I’m currently learning Java & Rust</h4>
 <h4 align="center">💬 Ask me about C, Bash & Linux</h4>
-<h4 align="center">I use Windows 11 & Fedora 37</h4>
+<h4 align="center">I use Fedora 38</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
