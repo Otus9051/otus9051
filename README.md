@@ -3,7 +3,7 @@
 
 <h4 align="center">🌱 I’m currently learning Java</h4>
 <h4 align="center">💬 Ask me about C, Bash & Linux</h4>
-<h4 align="center">I use Fedora 38 & Windows 11</h4>
+<h4 align="center">I use EndeavourOS</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
